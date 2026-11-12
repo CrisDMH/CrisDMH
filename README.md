@@ -1,4 +1,4 @@
-
+ 
 <!--
   Cristiano | GitHub Profile README
   Repository: CrisDMH/CrisDMH
@@ -6,123 +6,110 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=190&section=header&text=Cristiano&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Development&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:6366F1,100:9333EA&height=200&section=header&text=CRISTIANO&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%201%20%7C%20COMPUTER%20SCIENCE%20STUDENT&descAlignY=60&descSize=15" />
 
-<a href="https://github.com/CrisDMH">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Building+my+journey+in+Software+Development+%F0%9F%92%BB;Always+learning+something+new!+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+world!;Loading+new+skills...;Press+START+to+continue!" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-CrisDMH-181717?style=for-the-badge&logo=github)](https://github.com/CrisDMH)
-[![UFPR](https://img.shields.io/badge/UFPR-Computer%20Science-2563EB?style=for-the-badge)](https://www.ufpr.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-cristiano__mh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristiano_mh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano%20Helferich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-de-moura-helferich-363415358/)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🎮 PLAYER PROFILE
 
-Hello! I'm **Cristiano**, a Computer Science student at the **Federal University of Paraná (UFPR)**, Brazil.
+```yaml
+Name: Cristiano
+Username: CrisDMH
+Class: Computer Science Student
+University: Federal University of Paraná (UFPR)
+Location: Brazil 🇧🇷
+Main Quest: Software Development
+Language: English (Advanced)
+Status: Always Learning
+```
 
-I'm passionate about technology, programming and problem-solving. I'm constantly exploring new concepts and developing projects to improve my technical skills.
+### 🕹️ About Me
 
-- 🎓 Computer Science student at UFPR.
+Hello! I'm **Cristiano**, a Computer Science student at the **Federal University of Paraná (UFPR)**.
+
+My passion for technology started with video games. They were one of the main reasons I became interested in computers and programming, turning a hobby into a journey through the world of technology.
+
+- 🎓 Studying Computer Science at UFPR.
 - 💻 Interested in Software Development.
-- 🧠 Always looking to learn and improve my programming skills.
-- 🎮 Video game enthusiast — one of the reasons I fell in love with technology.
+- 🎮 Video game enthusiast and technology lover.
+- 🧠 Always learning, exploring and solving problems.
 - 🌎 Advanced English proficiency.
-- 🚀 Working towards becoming a better developer every day.
+- 🚀 Looking forward to new challenges and opportunities.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 TECH SKILL TREE
+
+*Choose your character. Upgrade your skills.*
 
 <div align="center">
 
-### Languages
+### ⚔️ Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
 
-### Tools & Environment
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+### 🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 CURRENT QUESTS
 
-Some of the projects I've developed during my Computer Science journey.
+| Quest | Status |
+|:---|:---:|
+| Improve programming skills | 🔄 In Progress |
+| Deepen Computer Science knowledge | 🔄 In Progress |
+| Build personal projects | 🔄 In Progress |
+| Gain software development experience | 🔄 In Progress |
+| Explore new technologies | 🔄 In Progress |
+
+---
+
+## 👾 BEYOND THE CODE
 
 <div align="center">
 
-<a href="https://github.com/CrisDMH/Jogo-Prog2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisDMH&repo=Jogo-Prog2&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/CrisDMH/The-Boys-Prog1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisDMH&repo=The-Boys-Prog1&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
 
-<a href="https://github.com/CrisDMH/Interactive-People-Dictionary-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisDMH&repo=Interactive-People-Dictionary-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/CrisDMH/ALG-3-Red-Black-Tree">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisDMH&repo=ALG-3-Red-Black-Tree&theme=tokyonight&hide_border=true" />
-</a>
+**"Every great developer was once a beginner."**
 
-<a href="https://github.com/CrisDMH/Trabalho-Redes-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisDMH&repo=Trabalho-Redes-1&theme=tokyonight&hide_border=true" />
-</a>
+🎮 Gaming enthusiast | 💻 Developer in progress | 🚀 Future Software Engineer
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 PLAYER CONNECTIONS
 
 <div align="center">
 
-<a href="https://github.com/CrisDMH">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrisDMH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/CrisDMH">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDMH&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristiano_mh/)
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-de-moura-helferich-363415358/)
 
-<img width="70%" src="https://streak-stats.demolab.com?user=CrisDMH&theme=tokyonight&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20profile-181717?style=for-the-badge&logo=github)](https://github.com/CrisDMH)
 
-</div>
+<br/>
 
----
+**THANKS FOR PLAYING!**
 
-## 🎯 Current Goals
+`GAME OVER? NEVER. JUST ANOTHER LEVEL TO COMPLETE.`
 
-- 📚 Deepen my knowledge of Computer Science.
-- 💡 Improve my problem-solving skills.
-- 💻 Develop more personal and academic projects.
-- 🚀 Gain practical experience in Software Development.
-- 🌱 Explore new technologies and development tools.
-
----
-
-<div align="center">
-
-<a href="https://github.com/CrisDMH">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your LinkedIn and professional email here when ready -->
-
-<br/><br/>
-
-**Thanks for visiting my profile!** 💙
-
-<img src="https://komarev.com/ghpvc/?username=CrisDMH&style=flat-square&color=6366F1&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:6366F1,100:9333EA&height=120&section=footer" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=100&section=footer" />
